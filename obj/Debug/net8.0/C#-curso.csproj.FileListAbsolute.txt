@@ -1,0 +1,14 @@
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\bin\Debug\net8.0\C#-curso.exe
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\bin\Debug\net8.0\C#-curso.deps.json
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\bin\Debug\net8.0\C#-curso.runtimeconfig.json
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\bin\Debug\net8.0\C#-curso.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\bin\Debug\net8.0\C#-curso.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\obj\Debug\net8.0\C#-curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\obj\Debug\net8.0\C#-curso.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\obj\Debug\net8.0\C#-curso.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\obj\Debug\net8.0\C#-curso.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\obj\Debug\net8.0\C#-curso.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\obj\Debug\net8.0\refint\C#-curso.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\obj\Debug\net8.0\C#-curso.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\obj\Debug\net8.0\C#-curso.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\C#-curso\obj\Debug\net8.0\ref\C#-curso.dll
